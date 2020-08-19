@@ -13,6 +13,8 @@ class Anagram
       
       if word.split("").sort == @word.split("").sort
         x << word
+      else 
+        x = []
       end 
       
     end 
