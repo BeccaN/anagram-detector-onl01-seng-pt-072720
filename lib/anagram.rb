@@ -16,7 +16,7 @@ class Anagram
       else 
         x = []
       end 
-      x 
+      
     end 
   end 
     
