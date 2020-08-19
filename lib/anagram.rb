@@ -16,5 +16,15 @@ class Anagram
     end 
     x 
   end 
+  
+  # def match(words_array)
+  #   x = []
+  #   words_array.each do |word|
+  #     if word.split("").sort == @word.split("").sort
+  #       x << word
+  #     end
+  #   end 
+  #   x 
+  # end 
     
 end   
